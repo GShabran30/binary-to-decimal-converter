@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1672804975 source:e:\smt 3\code project\binary to decimal converter\code.cpp
+	"code.h"
+
+1672804927 e:\smt 3\code project\binary to decimal converter\code.h
+	<iostream>
+	<string>
+	<math.h>
+
+1672804957 source:e:\smt 3\code project\binary to decimal converter\main.cpp
+	"code.h"
+
+1672807548 source:d:\git prototype\binary-to-decimal-converter-master\main.cpp
+	"code.h"
+
+1672807548 d:\git prototype\binary-to-decimal-converter-master\code.h
+	<iostream>
+	<string>
+	<math.h>
+
